@@ -1,0 +1,14 @@
+{
+  "title": "threshold multi party signature",
+  "text": "the most advanced (t-n) threshold signature algorihtm is used to protect your crypto asset, where the private key is distributed in n key shares and at least t shares should participate in MPC protocol and sign a valid signatrue. support both two-party and multi-party scenarios",
+  "section": [
+    {
+      "title": "two party",
+      "content": "use chrome extenstion or mobile app to auth with our server (facial or password); or the user can use broser extension & mobile app to sign a signature without auth with server"
+    },
+    {
+      "title": "multi party",
+      "content": "user can setup as many as n devices, our server may function as a communication coordinator; the safist way of protecting your asset"
+    }
+  ]
+}
